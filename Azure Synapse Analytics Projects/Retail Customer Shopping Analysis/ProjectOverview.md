@@ -28,4 +28,5 @@ Fields:
 3. **Azure Synapse Pipelines (ETL)** → Cleans and structures the data.
 4. **Power BI** → Creates dashboards and visualizations.
 
-![Architecture Diagram](diagrams/architecture_diagram.png)
+![Architecture Diagram]
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/7cd9988b-16d0-4154-9981-2dc6d29dfd69" />
