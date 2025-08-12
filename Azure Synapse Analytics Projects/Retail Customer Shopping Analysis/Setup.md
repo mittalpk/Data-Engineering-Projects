@@ -12,7 +12,7 @@
    - Create a storage account.
    - Create a container named `customer-data`.
 
-Azure Synapse Analytics Projects/Retail Customer Shopping Analysis/Images/StorageAccount-Container.png
+(Azure Synapse Analytics Projects/Retail Customer Shopping Analysis/Images/StorageAccount-Container.png)
 
 
 2. **Upload Dataset**
