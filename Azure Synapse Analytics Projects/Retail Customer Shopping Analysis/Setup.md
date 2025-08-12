@@ -33,6 +33,6 @@ Azure Synapse Analytics Projects/Retail Customer Shopping Analysis/Images/FileUp
    - CREATE EXTERNAL TABLE ShoppingAnalysis
    - SELECT COUNT(*) FROM ShoppingAnalysis
 
-  Azure Synapse Analytics Projects/Retail Customer Shopping Analysis/Images/ExportIntoSynapse.png
+  [Azure Synapse Analytics Projects/Retail Customer Shopping Analysis/Images/ExportIntoSynapse.png](https://github.com/mittalpk/Data-Engineering-Projects/blob/2e24d612ac0c5fd52f750d75fe400066357fd5f0/Azure%20Synapse%20Analytics%20Projects/Retail%20Customer%20Shopping%20Analysis/Images/ExportIntoSynapse.png)
 
 
